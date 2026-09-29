@@ -1,9 +1,9 @@
 # Funnel-IA Design System — STATUS
-Date: 2026-09-28
-Version: 0.1 bootstrap
+Date: 2026-09-29
+Version: 0.2 experience governance
 
 ## Current state
-Repository initialized as the public-safe canonical visual/UX system for Funnel-IA.
+Repository initialized as the public-safe canonical visual/UX system for Funnel-IA. The system now includes an explicit Web Experience Standard and Microexperience governance layer.
 
 ## Completed
 - Brand contract seeded.
@@ -13,14 +13,17 @@ Repository initialized as the public-safe canonical visual/UX system for Funnel-
 - Initial design tokens documented.
 - Initial component and pattern catalog created.
 - OpenDesign integration guidance prepared.
+- Web Experience Standard v0.1 documented.
+- Microexperience Agent defined as a stage of the Web/Landing Harness.
+- “Ningún estado es neutro” registered as the governing experience rule.
 
 ## Current milestone
-Connect this repository to OpenDesign and generate the first reusable visual system without replacing GitHub as source of truth.
+Connect this repository to OpenDesign while beginning construction of Harness Agents Framework v0.1.
 
 ## Next verifiable milestone
-1. Import this repository into OpenDesign.
-2. Confirm DESIGN.md is recognized.
-3. Generate initial system.
-4. Compare output against Funnel-IA brand/design rules.
-5. Approve or reject proposed refinements.
-6. Return approved refinements to this repository.
+1. Convert the Web Harness stages into agent contracts.
+2. Define inputs, outputs, dependencies, evidence and pass/fail criteria.
+3. Build the Microexperience checklist.
+4. Test the Harness against one real Funnel-IA landing.
+5. Record findings and refine.
+6. Extend the reusable Harness template to other portfolio processes.
