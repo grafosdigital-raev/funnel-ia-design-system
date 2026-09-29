@@ -1,5 +1,16 @@
 # Funnel-IA Design System — CHANGELOG
 
+## 2026-09-29 — RafaelVillegas.mx / Evolution Gateway
+### Corrected
+- Canonical personal-brand domain confirmed as **RafaelVillegas.mx**. Any prior reference to `RafaelVillegas.me` is incorrect and must not be propagated.
+
+### Architecture
+- Registered RafaelVillegas.mx as the conceptual human entry point / Evolution Gateway for the wider Rafa · eXeT · Funnel-IA ecosystem.
+- The gateway begins from the visitor's intention to improve rather than from a product catalog.
+- Initial routing territories: En mí · En mi trabajo o mi equipo · En mi negocio · Quiero aprender, with a transversal “No sé exactamente qué necesito” route.
+- Connected the experience architecture to **Consciencia · Acción · Resultados**: understand what needs to evolve → activate the appropriate path → accompany and make improvement observable.
+- Priority guardrail preserved: this architecture is registered for reuse without displacing current consolidation and sales work.
+
 ## 2026-09-29 — Web Experience Standard / Harness layer
 ### Added
 - `patterns/WEB_EXPERIENCE_STANDARD.md`.
